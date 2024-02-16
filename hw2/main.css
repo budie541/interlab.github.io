@@ -1,0 +1,28 @@
+body{
+	background-image: url("IMG_1405.jpg");
+	background-size: 100%;
+}
+
+p{
+	background-color: white;
+	margin: 20px;
+	padding: 20px;
+	font-family: arial;
+	font-size: 14px;
+	color: indianred;
+	line-height: 20px;
+}
+
+ul{
+	background-color: white;
+	display: inline-flex;
+	width: auto;
+	margin: 20px;
+	padding: 20px;
+	padding-left: 40px;
+	align-items: center;
+}
+
+video{
+	margin: 20px;
+}

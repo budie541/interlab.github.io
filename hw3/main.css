@@ -1,0 +1,39 @@
+ body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+.top {
+      background-color: #36B9C9;
+      width: 500px;
+      height: 500px;
+      position: absolute;
+    }
+
+.bottom {
+      background-color: #3B54AF;
+      width: 500px;
+      height: 270px;
+      margin-top: 230px;
+      position: absolute;
+    }
+
+.circle {
+     background-color: #F8C9DD;
+     width: 270px;
+     height: 270px;
+     border-radius: 50%;
+     margin-right: 100px;
+     margin-bottom: 50px;
+     position: absolute;
+}
+.rectangle {
+     background-color: #79C553;
+     width: 50px;
+     height: 100px;
+     margin-left: 350px;
+     margin-bottom: 40px;
+     position: absolute;
+}
