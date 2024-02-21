@@ -1,0 +1,26 @@
+body{
+	background: #ECEDEE;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	height: 100vh;
+}
+.paper{
+	background-color: white;
+	width: 70vw;
+	height: 100vh;
+	margin-top: 15vh;
+}
+
+.paper h1{
+	font-family: times new roman;
+	font-weight: 100;
+	font-size: 1.5vw;
+	padding: 15vh 10vw;
+}
+
+.autotype{
+	animation-delay: 1.5s;
+}
